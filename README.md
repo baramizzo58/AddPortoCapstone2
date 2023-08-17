@@ -3,7 +3,7 @@ Additional Portofolio Capstone Project Modul 2 Purwadhika Job Connector Data Sci
 
 ## TSA Claims Database
 
-![Transportation_Security_Administration_seal svg](https://github.com/baramizzo58/AddPortoCapstone2/assets/119744134/989763b0-d703-4f1e-a87b-e0e1ce97769c)
+![Transportation_Security_Administration_seal svg](https://github.com/baramizzo58/AddPortoCapstone2/assets/119744134/989763b0-d703-4f1e-a87b-e0e1ce97769c)<br>
 https://www.kaggle.com/datasets/terminal-security-agency/tsa-claims-database
 
 ## Read Medium Article
